@@ -112,3 +112,8 @@ iOSInjectionProject/
 Network Trash Folder
 Temporary Items
 .apdisk 
+
+# Ignore built artifacts
+/build/
+/*.zip
+*.app
