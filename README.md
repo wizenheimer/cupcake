@@ -12,17 +12,15 @@
 
 Cupcake brings the most precious little furballs to your macOS Dock. They bounce around with the most adorable little hops and honestly just make your computer so much more delightful. Not exactly productive, but who cares when they're this precious?
 
+https://github.com/user-attachments/assets/79c63c92-ecc3-4c64-91a2-254ebb406138
+
 **What makes it purr-fect:**
 
 <p>
-  <a href="https://github.com/user-attachments/assets/d1d79d0b-2249-4d80-b357-beb596a04253">
+  <a href="https://github.com/user-attachments/assets/79c63c92-ecc3-4c64-91a2-254ebb406138">
     <img src="https://github.com/user-attachments/assets/b74a9820-55e4-4401-8b03-94e31678ac3a" alt="Cupcake Demo" style="width: 100%;">
   </a>
 </p>
-
-
-https://github.com/user-attachments/assets/d1d79d0b-2249-4d80-b357-beb596a04253
-
 
 
 - 11 absolutely adorable cattos
