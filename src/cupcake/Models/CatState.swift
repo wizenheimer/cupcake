@@ -14,7 +14,7 @@ enum CatState: String, CaseIterable {
     var displayName: String {
         switch self {
         case .idle: return "Chill"
-        case .jump: return "Attack"
+        case .jump: return "Wiggle"
         }
     }
 }

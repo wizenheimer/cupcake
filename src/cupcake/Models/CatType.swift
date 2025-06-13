@@ -22,17 +22,17 @@ enum CatType: String, CaseIterable {
 
     var displayName: String {
         switch self {
-        case .classical: return "Classical Cat"
-        case .batman: return "Batman Cat"
-        case .black: return "Black Cat"
-        case .brown: return "Brown Cat"
-        case .demonic: return "Demon Cat"
-        case .egypt: return "Egyptian Cat"
-        case .siamese: return "Siamese Cat"
-        case .threeColor: return "Calico Cat"
-        case .tiger: return "Tiger Cat"
-        case .white: return "White Cat"
-        case .xmas: return "Christmas Cat"
+        case .classical: return "Vanilla"
+        case .batman: return "Midnight"
+        case .black: return "Cocoa"
+        case .brown: return "Caramel"
+        case .demonic: return "Spicy"
+        case .egypt: return "Honey"
+        case .siamese: return "Cookies"
+        case .threeColor: return "Rainbow"
+        case .tiger: return "Orange"
+        case .white: return "Sugar"
+        case .xmas: return "Mint"
         }
     }
 
