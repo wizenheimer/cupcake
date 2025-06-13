@@ -14,6 +14,17 @@ Cupcake brings the most precious little furballs to your macOS Dock. They bounce
 
 **What makes it purr-fect:**
 
+<p>
+  <a href="https://github.com/user-attachments/assets/d1d79d0b-2249-4d80-b357-beb596a04253">
+    <img src="https://github.com/user-attachments/assets/b74a9820-55e4-4401-8b03-94e31678ac3a" alt="Cupcake Demo" style="width: 100%;">
+  </a>
+</p>
+
+
+https://github.com/user-attachments/assets/d1d79d0b-2249-4d80-b357-beb596a04253
+
+
+
 - 11 absolutely adorable cattos
 - Two precious moods: Chill or Wiggle
 - Super lightweight so your Mac stays happy
