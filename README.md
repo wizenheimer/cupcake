@@ -28,6 +28,11 @@ https://github.com/user-attachments/assets/79c63c92-ecc3-4c64-91a2-254ebb406138
 - Super lightweight so your Mac stays happy
 - Makes your Dock the cutest place on your Mac
 
+## Shoutout
+
+- Dockitty
+- Docko
+
 ## License
 
 MIT License because sharing is caring and everyone deserves cupcake happiness! Use it, love it, make it even more amazing.
