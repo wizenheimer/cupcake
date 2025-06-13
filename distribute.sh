@@ -10,7 +10,7 @@ ZIP_NAME="${APP_NAME}.zip"
 VERSION="1.0.0"
 REPO_SLUG="wizenheimer/cupcake"
 TAP_REPO="wizenheimer/homebrew-cupcake"
-CASK_PATH="casks/${APP_NAME}.rb"
+CASK_PATH="dist/${APP_NAME}.rb"
 
 echo "Cleaning old build..."
 rm -rf "$BUILD_DIR"
