@@ -9,8 +9,8 @@ import AppKit
 import DSFDockTile
 
 class CatAnimationManager: NSObject, ObservableObject {
-    @Published var currentCatType: CatType = .classical
-    @Published var currentCatState: CatState = .idle
+    @Published var currentCatType: CatType = .white
+    @Published var currentCatState: CatState = .jump
 
     private let dockTile = DSFDockTile.Image()
     private var currentFrames: [NSImage] = []

@@ -1,0 +1,24 @@
+{
+  "originHash" : "ae8f7af6ab64d1e3e74636ee25215a9c9f12d97959793d693dd3c3d5c2db90f0",
+  "pins" : [
+    {
+      "identity" : "dsfdocktile",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dagronf/DSFDockTile",
+      "state" : {
+        "revision" : "921840f138ece177c9c636958434d674d9d42d72",
+        "version" : "1.0.0"
+      }
+    },
+    {
+      "identity" : "dsfimageflipbook",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/dagronf/DSFImageFlipbook",
+      "state" : {
+        "revision" : "8b6e1e7f862c1d39ce34c59705f9fa731d9fd539",
+        "version" : "1.0.1"
+      }
+    }
+  ],
+  "version" : 3
+}
