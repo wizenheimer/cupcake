@@ -2,15 +2,30 @@
 
 set -euo pipefail
 
+# Check if version is provided
+if [ $# -eq 0 ]; then
+    echo "Usage: $0 <version>"
+    echo "Example: $0 1.0.2"
+    exit 1
+fi
+
+# Validate version format (basic semver check)
+if [[ ! "$1" =~ ^[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+    echo "Error: Version must be in format X.Y.Z (e.g., 1.0.2)"
+    exit 1
+fi
+
 APP_NAME="cupcake"
 SCHEME="cupcake"
 PROJECT_PATH="src/cupcake.xcodeproj"
 BUILD_DIR="build"
 ZIP_NAME="${APP_NAME}.zip"
-VERSION="1.0.0"
+VERSION="$1"  # Get version from command line argument
 REPO_SLUG="wizenheimer/cupcake"
 TAP_REPO="wizenheimer/homebrew-cupcake"
 CASK_PATH="dist/${APP_NAME}.rb"
+
+echo "Building version: $VERSION"
 
 echo "Cleaning old build..."
 rm -rf "$BUILD_DIR"
@@ -47,7 +62,7 @@ cask "${APP_NAME}" do
   version "${VERSION}"
   sha256 "${SHA}"
 
-  url "https://github.com/${REPO_SLUG}/releases/download/v\#{version}/${ZIP_NAME}"
+  url "https://github.com/${REPO_SLUG}/releases/download/v#{version}/${ZIP_NAME}"
   name "Cupcake"
   desc "Dock cat animation app — unsigned"
   homepage "https://github.com/${REPO_SLUG}"
