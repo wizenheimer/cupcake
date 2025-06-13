@@ -35,4 +35,4 @@ https://github.com/user-attachments/assets/79c63c92-ecc3-4c64-91a2-254ebb406138
 
 ## License
 
-MIT License because sharing is caring and everyone deserves cupcake happiness! Use it, love it, make it even more amazing.
+MIT License
