@@ -22,11 +22,44 @@ https://github.com/user-attachments/assets/79c63c92-ecc3-4c64-91a2-254ebb406138
   </a>
 </p>
 
-
 - 11 absolutely adorable cattos
 - Two precious moods: Chill or Wiggle
 - Super lightweight so your Mac stays happy
 - Makes your Dock the cutest place on your Mac
+
+## Meet the Cast
+
+### Classics
+
+| Character    | Preview                                                                                                                                                                                | Actions       |
+| ------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
+| **Vanilla**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_classical_cat_idle.imageset/00_classical_cat_idle.png" width="64" height="64">     | Chill, Wiggle |
+| **Midnight** | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_batman_cat_idle.imageset/00_batman_cat_idle.png" width="64" height="64">           | Chill, Wiggle |
+| **Cocoa**    | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_black_cat_idle.imageset/00_black_cat_idle.png" width="64" height="64">             | Chill, Wiggle |
+| **Caramel**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_brown_cat_idle.imageset/00_brown_cat_idle.png" width="64" height="64">             | Chill, Wiggle |
+| **Spicy**    | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_demonic_cat_idle.imageset/00_demonic_cat_idle.png" width="64" height="64">         | Chill, Wiggle |
+| **Honey**    | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_egypt_cat_idle.imageset/00_egypt_cat_idle.png" width="64" height="64">             | Chill, Wiggle |
+| **Cookies**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_siamese_cat_idle.imageset/00_siamese_cat_idle.png" width="64" height="64">         | Chill, Wiggle |
+| **Rainbow**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_three_color_cat_idle.imageset/00_three_color_cat_idle.png" width="64" height="64"> | Chill, Wiggle |
+| **Orange**   | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_tiger_cat_idle.imageset/00_tiger_cat_idle.png" width="64" height="64">             | Chill, Wiggle |
+| **Sugar**    | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_white_cat_idle.imageset/00_white_cat_idle.png" width="64" height="64">             | Chill, Wiggle |
+| **Mint**     | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_xmas_cat_idle.imageset/00_xmas_cat_idle.png" width="64" height="64">               | Chill, Wiggle |
+
+### Superheros
+
+| Character    | Preview                                                                                                                                                                            | Special Move     |
+| ------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **Inferno**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_flame_cat_jump.imageset/00_flame_cat_jump.png" width="64" height="64">         | Flame Leap       |
+| **Blizzard** | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_frost_cat_jump.imageset/00_frost_cat_jump.png" width="64" height="64">         | Ice Leap         |
+| **Thunder**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_lightning_cat_jump.imageset/00_lightning_cat_jump.png" width="64" height="64"> | Lightning Strike |
+| **Phantom**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_shadow_cat_jump.imageset/00_shadow_cat_jump.png" width="64" height="64">       | Shadow Dash      |
+| **Tempest**  | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_storm_cat_jump.imageset/00_storm_cat_jump.png" width="64" height="64">         | Wind Leap        |
+
+### Specials
+
+| Character  | Preview                                                                                                                                                                          | Special Move |
+| ---------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| **Zombie** | <img src="https://raw.githubusercontent.com/wizenheimer/cupcake/main/src/cupcake/Assets.xcassets/00_zombie_cat_eating.imageset/00_zombie_cat_eating.png" width="64" height="64"> | Feast        |
 
 ## Shoutout
 
