@@ -166,12 +166,25 @@ class CharacterRegistry {
                 ]
             )
         
+        let couchbaseCat = Character(
+                id: "couchbase_cat",
+                displayName: "Couchbase",
+                animations: [
+                    AnimationSequence(name: "jump", displayName: "Gust", frameCount: 11, frameRate: 0.08),
+                    // Future animations:
+                    // AnimationSequence(name: "idle", displayName: "Hover", frameCount: 8, frameRate: 0.2),
+                    // AnimationSequence(name: "attack", displayName: "Gust", frameCount: 10, frameRate: 0.06),
+                    // AnimationSequence(name: "special", displayName: "Hurricane", frameCount: 15, frameRate: 0.05)
+                ]
+            )
+        
         addCharacter(zombieCat)
         addCharacter(flameCat)
         addCharacter(frostCat)
         addCharacter(lightningCat)
         addCharacter(shadowCat)
         addCharacter(stormCat)
+        addCharacter(couchbaseCat)
     }
 }
 
