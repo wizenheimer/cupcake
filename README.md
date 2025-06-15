@@ -63,8 +63,8 @@ https://github.com/user-attachments/assets/79c63c92-ecc3-4c64-91a2-254ebb406138
 
 ## Shoutout
 
-- Dockitty
-- Docko
+This project is shamelessly inspired by [Dockitty](https://dockitty.app) by [Lazare Kolebka](https://www.linkedin.com/in/lazarekolebka/) 
+Lazare did it first, and probably better - so seriously, don't settle for the knockoff when you can get the original.
 
 ## License
 
