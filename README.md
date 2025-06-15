@@ -4,7 +4,7 @@
   <p>Adorable animated kitties for your Dock</p>
   <p>Pick one, give it a personality, and let it do its thing.</p>
   <p>
-    <a href="https://github.com/wizenheimer/cupcake/releases"><strong>✨ Explore the cuteness »</strong></a>
+    <a href="https://www.dockitty.app/"><strong>✨ Explore the cuteness »</strong></a>
   </p>
 </div>
 
