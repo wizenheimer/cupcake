@@ -1,6 +1,6 @@
 cask "cupcake" do
-  version "1.0.1"
-  sha256 "90ff13cea43063503c231b981b9abebe3728a29beb9821bd601a5b361a00686f"
+  version "1.0.3"
+  sha256 "0626bdb6522f80fc45a72013a5b93a45441830ec2b08f11f58fa852da0e22d63"
 
   url "https://github.com/wizenheimer/cupcake/releases/download/v#{version}/cupcake.zip"
   name "Cupcake"
